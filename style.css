@@ -1,0 +1,30 @@
+*{
+    margin: 0 auto;
+}
+
+img{
+    height: 300px;
+    width: 300px;
+    display: block;
+    align-self: center;
+}
+
+h1,h3{
+    text-align: center;
+    color: white;
+    padding: 5px;
+}
+
+body{
+    background: #2b2f50;
+}
+
+li{
+    color: white;
+}
+
+.commandlist,.gitcommandlist{
+    background: rgb(37, 37, 37);
+    width: 250px;
+    padding: 4px;
+}
