@@ -1,8 +1,6 @@
 # hello world
 ## hello dddddd
 
-sdkjfhdskjfh
-
 **kdsjflksdjflk**
 
 *sdkjfklsdjfs*
